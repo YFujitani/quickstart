@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "ja-jp"
+#title = "SSG Selection Sample"
+title = "日本語でおｋ　てすと"
+theme = "ananke"
